@@ -3,7 +3,10 @@
         <title>Tugas1</title>
      </head>
      <body>
-     <a href="tugas1.1.php" target="_self"><input type="button" name="Ganti" value="Ganti"></a>
+     <a href="tugas1.1.php" target="_self"><input type="button" name="Tambah" value="Tambah"></a>
+
+	<link rel="stylesheet" href = "Mycss.css"> 
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
     <table border="1">
 	<tr>
 	    <th rowspan="2">kode</th>
